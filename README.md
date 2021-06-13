@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Snake
 
-[![Screen Shot][screenshot]]
+![Screen Shot][screenshot]
 
 Simple snake game for training purpose.
 
